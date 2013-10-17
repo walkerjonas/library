@@ -7,6 +7,7 @@ import domain.Shelf;
 public class BookTest extends TestCase {
 
 	public void testBookCreation() {
+		String hlallo="hoaisd";
 		Book b = new Book("The Definitive ANTLR Reference");
 		b.setName("The Definitive ANTLR Reference");
 		b.setAuthor("Terence Parr");
