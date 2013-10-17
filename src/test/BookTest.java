@@ -14,6 +14,7 @@ public class BookTest extends TestCase {
 		b.setPublisher("The Pragmatic Programmers");
 		b.setShelf(Shelf.A1);
 		
+		
 		assertEquals("The Definitive ANTLR Reference", b.getName());
 		b.setName("NewName");
 		assertEquals("NewName", b.getName());
