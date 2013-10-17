@@ -8,6 +8,7 @@ public class BookTest extends TestCase {
 
 	public void testBookCreation() {
 		String hlallo="hoaisd";
+		mushi
 		String zwei = "zwei";
 		string drei ="hell";
 		Book b = new Book("The Definitive ANTLR Reference");
