@@ -9,6 +9,7 @@ public class BookTest extends TestCase {
 	public void testBookCreation() {
 		String hlallo="hoaisd";
 		String zwei = "zwei";
+		string drei ="hell";
 		Book b = new Book("The Definitive ANTLR Reference");
 		b.setName("The Definitive ANTLR Reference");
 		b.setAuthor("Terence Parr");
